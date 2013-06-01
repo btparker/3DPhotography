@@ -2,13 +2,13 @@
     <user>
         <input>
             <type>IMAGE_SEQUENCE</type>
-            <src>../../../data/frog</src>
+            <src>/home/btparker/3DPhotography/apps/3DScanApps/ShadowPlaneScan/bin/data/frog</src>
         </input>
         <calibration>
             <cam>
-                <frames>../../../data/calib_1</frames>
-                <intrinsicFile>../../../data/intrinsic.xml</intrinsicFile>
-                <distortionFile>../../../data/distortion.xml</distortionFile>
+                <frames>/home/btparker/3DPhotography/apps/3DScanApps/ShadowPlaneScan/bin/data/calib_1</frames>
+                <intrinsicFile>/home/btparker/3DPhotography/apps/3DScanApps/ShadowPlaneScan/bin/data/intrinsic.xml</intrinsicFile>
+                <distortionFile>/home/btparker/3DPhotography/apps/3DScanApps/ShadowPlaneScan/bin/data/distortion.xml</distortionFile>
             </cam>
         </calibration>
         <misc>
