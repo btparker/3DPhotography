@@ -1,5 +1,0 @@
-Bryan Tyler Parker
-3D Photography
-
-::Compilation Instructions::
-Must be with an apps folder of openframeworks (http://www.openframeworks.cc/download/), and include the OpenCv addon (should be included with the newest release). To compile, type 'make', and run './bin/3D' Only tested with linux, but one can follow compilation instructions on the openframeworks site for other operating systems.
